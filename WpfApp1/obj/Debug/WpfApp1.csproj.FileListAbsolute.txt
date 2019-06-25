@@ -1,0 +1,15 @@
+D:\Learning\LearnWPF\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Learning\LearnWPF\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Learning\LearnWPF\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Learning\LearnWPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+D:\Learning\LearnWPF\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Learning\LearnWPF\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\Learning\LearnWPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Learning\LearnWPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Learning\LearnWPF\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\Learning\LearnWPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Learning\LearnWPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Learning\LearnWPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Learning\LearnWPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Learning\LearnWPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Learning\LearnWPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
